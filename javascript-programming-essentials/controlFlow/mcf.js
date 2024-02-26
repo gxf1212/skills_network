@@ -1,7 +1,7 @@
 // let person = "Employee";
 // let person = "Enrolled Member";
 // let person = "Subscriber"
-let person = 'lalala'
+let person = 'Your daddy'
 
 let result = document.getElementById("authorization result");
 switch (person) {
